@@ -2,6 +2,8 @@
 
 This Python program performs basic arithmetic operations such as addition, subtraction, multiplication, and division using functions.
 
+Use merging to combine branches so that the main.py code in the main branch appears as follows: 
+
 ```python
 def add(x, y):
     return x + y
