@@ -1,8 +1,8 @@
-# cd61203-git
+# Basic Arithmetic Operations
 
+This Python program performs basic arithmetic operations such as addition, subtraction, multiplication, and division using functions.
 
-After merging, the final main.py in the main branch should appear as follows:
-
+```python
 def add(x, y):
     return x + y
 
